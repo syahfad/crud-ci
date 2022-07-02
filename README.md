@@ -16,3 +16,12 @@ buatlah database dengan nama
 crud
 ```
 dan import file db.sql yang ada di folder crud-ci
+
+
+------------------
+### Cheers Up!
+
+*Happy Developing and Learning* 💪
+
+
+Regards 😁😁
