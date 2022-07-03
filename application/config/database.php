@@ -72,7 +72,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 */
 $active_group = 'default';
 $query_builder = TRUE;
-
+//syntax dibawah berfungsi untuk melakukan koneksi ke database berdasarkan ketentuan dibawah, seperti hostname adalah localhost, username adalah root dan database adalah crud
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
